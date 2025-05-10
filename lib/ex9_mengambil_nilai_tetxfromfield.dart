@@ -65,7 +65,6 @@ class _MyHomePageState extends State<MyHomePage> {
   );
 }
 
-
   // Inisialisasi focus node dan listener saat state pertama kali dibuat
   @override
   void initState() {
